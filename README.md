@@ -22,5 +22,5 @@ Para instalar o projeto, siga os passos abaixo:
 Para iniciar a aplicação, execute:
 ```bash
 npm run dev
-##template:
-![alt text](../../../Imagens/Capturas%20de%20tela/Captura%20de%20tela%20de%202024-10-02%2020-44-13.png)
+##URL
+https://sensational-shortbread-5bc1a4.netlify.app/
